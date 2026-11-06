@@ -17,7 +17,7 @@ Accept Bitcoin, Ethereum, USDT, USDC, Solana, Litecoin, Monero, Zcash and more o
   - only confirmed payments are credited, and repeated or simultaneous confirmations are credited once;
   - the payout must go to your wallets, and the amount is priced in the coin the client chose and checked before the invoice is paid.
 - Works with your own checkout domain and a free dedicated API endpoint ([custom domain guide](https://paygate.to/white-label-api-custom-domain-guide/)).
-- Fees: **1.5% + blockchain fees**.
+- Fees: **1% + blockchain fees**.
 
 📘 **Step-by-step guide:** [https://paygate.to/crypto-payment-gateway-no-kyc-instant-payouts/paymenter/](https://paygate.to/crypto-payment-gateway-no-kyc-instant-payouts/paymenter/)
 
